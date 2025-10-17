@@ -47,10 +47,10 @@ A simple Express.js API that returns your personal profile information, the curr
 
 - Create .env file
 
-PORT=3000
-EMAIL=youremail@example.com
-NAME=Your Full Name
-STACK=Node.js/Express
+- PORT=3000
+- EMAIL=youremail@example.com
+- NAME=Your Full Name
+- STACK=Node.js/Express
 
 - Start the server
 
